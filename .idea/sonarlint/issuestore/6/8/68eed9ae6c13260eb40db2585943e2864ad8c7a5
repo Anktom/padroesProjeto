@@ -1,0 +1,11 @@
+
+G	java:S106
+"+Replace this use of System.out by a logger.(Î•§Œ8†÷Á‡2
+G	java:S106"+Replace this use of System.out by a logger.(âƒÜ8ˆ÷Á‡2
+V
+java:S5993"9Change the visibility of this constructor to "protected".(€×Ç£8ˆ÷Á‡2
+Q
+java:S1172,"4Remove this unused method parameter "formaDecorada".(„‘´±8÷Á‡2
+L	java:S106-"+Replace this use of System.out by a logger.(†ß—¦üÿÿÿÿ8÷Á‡2
+L	java:S1066"+Replace this use of System.out by a logger.(…Â‹øÿÿÿÿ8÷Á‡2
+G	java:S1069"+Replace this use of System.out by a logger.(áÅäÍ8÷Á‡2

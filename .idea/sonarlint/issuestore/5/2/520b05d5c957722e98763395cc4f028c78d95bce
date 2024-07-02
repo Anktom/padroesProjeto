@@ -1,0 +1,17 @@
+
+c
+java:S1192"GDefine a constant instead of duplicating this literal "idioma" 4 times.(Ùãé%8ïûÑ ‡2
+9
+java:S1700"Rename field "configuracoes"(¢“¨8ğûÑ ‡2
+7
+java:S1220""Move this file to a named package.8ğûÑ ‡2
+»
+java:S6548"˜A Singleton implementation was detected. Make sure the use of the Singleton pattern is required and the implementation is the right one for the context.(’ïöíüÿÿÿÿ8ùûÑ ‡2
+[
+java:S2168"9Remove this dangerous instance of double-checked locking.(ÅÇïŒÿÿÿÿÿ8ÿûÑ ‡2
+G	java:S106&"+Replace this use of System.out by a logger.(•‚ïÒ8€’È ‡2
+L	java:S106'"+Replace this use of System.out by a logger.(»µì±ûÿÿÿÿ8ƒüÑ ‡2
+L	java:S106/"+Replace this use of System.out by a logger.(û¾½’ıÿÿÿÿ8…üÑ ‡2
+L	java:S1060"+Replace this use of System.out by a logger.(€ÇÕÂıÿÿÿÿ8…üÑ ‡2
+L	java:S1064"+Replace this use of System.out by a logger.(‰•×ºşÿÿÿÿ8†üÑ ‡2
+L	java:S1066"+Replace this use of System.out by a logger.(Ô„üòüÿÿÿÿ8†üÑ ‡2

@@ -1,0 +1,7 @@
+
+2
+java:S1700
+"Rename field "numero"(Œ»ÓŒ8õ“êŸ‡2
+r
+java:S11497"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(Ì—çşÿÿÿÿ8š”êŸ‡2
+L	java:S106G"+Replace this use of System.out by a logger.(Ÿã¬ûÿÿÿÿ8¾”êŸ‡2

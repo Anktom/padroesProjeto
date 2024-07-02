@@ -1,0 +1,9 @@
+
+7
+java:S1220""Move this file to a named package.8Ï‘È ‡2
+µ
+java:S6548"˜A Singleton implementation was detected. Make sure the use of the Singleton pattern is required and the implementation is the right one for the context.(èä€j8€×É ‡2
+V
+java:S2168"9Remove this dangerous instance of double-checked locking.(êÞ©Ì8‰×É ‡2
+G	java:S1060"+Replace this use of System.out by a logger.(Œ©”ò8ÿ‘È ‡2
+L	java:S1062"+Replace this use of System.out by a logger.(Ô„üòüÿÿÿÿ8€’È ‡2

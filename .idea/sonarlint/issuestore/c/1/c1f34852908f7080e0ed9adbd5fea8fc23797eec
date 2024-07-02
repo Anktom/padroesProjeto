@@ -1,0 +1,8 @@
+
+k
+java:S1192&"IDefine a constant instead of duplicating this literal "Carvalho" 3 times.(‡Ğº¾ùÿÿÿÿ8ÅÁŠ ‡2
+p
+java:S3824"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".(»ÛÈèıÿÿÿÿ8êÁŠ ‡2
+G	java:S106"+Replace this use of System.out by a logger.(äÊ¹8íÁŠ ‡2
+W
+java:S1118":Add a private constructor to hide the implicit public one.(ıšÑÛ8îÁŠ ‡2
